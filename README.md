@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashish3246
+- 👋 Hi, I’m Ashish Kumar
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning AWS Services
 - 💞️ I’m looking to collaborate on Jira
